@@ -11,8 +11,6 @@ const Header = () => {
           alt="image"
           width={700} 
           height={700}
-           
-          
         />
       
       </div>
